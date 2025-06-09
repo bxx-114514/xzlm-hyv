@@ -22,4 +22,5 @@
   - [送给我最爱的鸣潮](docs/送给我最爱的鸣潮.md)
   - [太贴切了](docs/太贴切了.md)
   - [原神玩家拒绝入坑鸣潮之后，被举报到封号](docs/原神玩家拒绝入坑鸣潮之后，被举报到封号.md)
+  - [疑似串子或镍币人 Suspected flamebaiter](docs/疑似串子或镍币人%20Suspected%20flamebaiter.md)
 - **【待更新 To be updated】**
