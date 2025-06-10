@@ -23,4 +23,5 @@
   - [太贴切了](docs/太贴切了.md)
   - [原神玩家拒绝入坑鸣潮之后，被举报到封号](docs/原神玩家拒绝入坑鸣潮之后，被举报到封号.md)
   - [疑似串子或镍币人 Suspected flamebaiter](docs/疑似串子或镍币人%20Suspected%20flamebaiter.md)
+  - [尘白深陷偷皮肤风波？自导自演还是确有其事？](docs/尘白深陷偷皮肤风波？自导自演还是确有其事？.md)
 - **【待更新 To be updated】**
