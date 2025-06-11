@@ -5,4 +5,4 @@
 - The Xianzhou Union observe station of HoYoverse Games. It use for recording big events and small things in Nijigen Games and HoYoverse Games.
 
 [GitHub](https://github.com/bxx-114514/xzlm-hyv)
-[开始吧 Get Started](README.md)
+[开始吧 Getting Started](README.md)
