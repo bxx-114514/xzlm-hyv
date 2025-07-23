@@ -6,6 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
 </head>
 <body>
   <div id="app"></div>
@@ -15,8 +16,18 @@
       repo: 'https://github.com/bxx-114514/xzlm-hyv',
       loadSidebar: true,
       coverpage: true,
+    gitalk: {
+      clientID: 'Ov23liCNLYoFtUIiDOKc',
+      clientSecret: '06c54009ccb0bffad6e77be69db1b962aef9bb0e',
+      repo: 'xzlm-hyv',
+      owner: 'bxx-114514',
+      admin: ['bxx-114514']
     }
+  }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+  <script src="https://unpkg.com/docsify-gitalk@1.0.0/dist/docsify-gitalk.min.js"></script>
 </body>
 </html>
